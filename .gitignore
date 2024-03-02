@@ -1,0 +1,14 @@
+**/build
+**/build/*
+build/*
+.Xil
+*.jou
+vivado_*
+*.log
+**/software/*
+!**/software/proj_app
+**/software/proj_app/*
+!**/software/proj_app/src
+**/software/proj_app/src/README.txt
+**/software/proj_app/src/lscript.ld
+*.xsa
